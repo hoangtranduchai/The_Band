@@ -50,7 +50,7 @@
 }
 
 /* Mobile */
-@media (max-width: 46.1875em) {
+@media (max-width: 739px) {
     .s-full-width,
     .s-column-full {
         width: 100% !important;
